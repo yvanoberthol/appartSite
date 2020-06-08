@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="465b9ab5-1708-4c1f-928b-745b804f3d54" name="Default Changelist" comment="" />
+    <list default="true" id="465b9ab5-1708-4c1f-928b-745b804f3d54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/annonce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/appartSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appartSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -21,7 +45,10 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
@@ -134,24 +161,46 @@
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/vendor/vich/uploader-bundle" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1bsZAV5Hwh8vqNAtSHYHAXkK1uJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\public\js" />
       <recent name="D:\tutosencours\php\symfonyProjects\appartSite\public" />
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\templates\admin\annonce" />
       <recent name="D:\tutosencours\php\symfonyProjects\appartSite\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\assets" />
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\templates\admin" />
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\templates\admin\partials" />
+      <recent name="D:\tutosencours\php\symfonyProjects\appartSite\templates\admin\annonce" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -176,11 +225,92 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589422618181</updated>
-      <workItem from="1589422620081" duration="4925000" />
+      <workItem from="1589422620081" duration="31073000" />
+      <workItem from="1589796971778" duration="620000" />
+      <workItem from="1590064980885" duration="1084000" />
+      <workItem from="1590099663970" duration="8493000" />
+      <workItem from="1590154128198" duration="13739000" />
+      <workItem from="1590246215270" duration="3004000" />
+      <workItem from="1590322984899" duration="11206000" />
+      <workItem from="1590362125003" duration="8623000" />
+      <workItem from="1590411885393" duration="3933000" />
+      <workItem from="1590460542712" duration="2853000" />
+      <workItem from="1590521226689" duration="15854000" />
+      <workItem from="1590541956344" duration="21100000" />
+      <workItem from="1590752174045" duration="8349000" />
+      <workItem from="1590791259294" duration="17376000" />
+      <workItem from="1590871786130" duration="6130000" />
+      <workItem from="1590922449044" duration="10993000" />
+      <workItem from="1591020796240" duration="3832000" />
+      <workItem from="1591077303244" duration="168000" />
+      <workItem from="1591077494933" duration="6131000" />
+      <workItem from="1591122025213" duration="10271000" />
+      <workItem from="1591265857631" duration="18125000" />
+      <workItem from="1591441322491" duration="5175000" />
+      <workItem from="1591450876158" duration="2808000" />
+      <workItem from="1591476768272" duration="34965000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590764184915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590764184915" />
+    <state x="436" y="12" key="#com.intellij.ide.util.MemberChooser" timestamp="1591628286575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="12" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591628286575" />
+    <state x="186" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591628511619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591628511619" />
+    <state x="350" y="62" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591528434169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="62" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591528434169" />
+    <state width="1311" height="210" key="GridCell.Tab.0.bottom" timestamp="1591122904163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591122904163" />
+    <state width="1311" height="210" key="GridCell.Tab.0.center" timestamp="1591122904163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591122904163" />
+    <state width="1311" height="210" key="GridCell.Tab.0.left" timestamp="1591122904163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591122904163" />
+    <state width="1311" height="210" key="GridCell.Tab.0.right" timestamp="1591122904163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591122904163" />
+    <state x="163" y="37" key="IDE.errors.dialog" timestamp="1589491159415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="37" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1589491159415" />
+    <state x="390" y="138" key="NewPhpClassDialog" timestamp="1591654824304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="138" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1591654824304" />
+    <state x="495" y="272" key="NewPhpFileDialog" timestamp="1590833032996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="272" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1590833032996" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1591077474069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591077474069" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1591476798312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591476798312" />
+    <state x="237" y="23" width="875" height="663" key="recent.locations.popup" timestamp="1591272829438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="23" width="875" height="663" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1591272829438" />
   </component>
 </project>

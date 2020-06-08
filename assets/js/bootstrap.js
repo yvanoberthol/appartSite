@@ -4,8 +4,8 @@
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery')) :
-        typeof define === 'function' && define.amd ? define(['exports', 'jquery'], factory) :
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('assets/js/jquery')) :
+        typeof define === 'function' && define.amd ? define(['exports', 'assets/js/jquery'], factory) :
             (global = global || self, factory(global.bootstrap = {}, global.jQuery));
 }(this, (function (exports, $) { 'use strict';
 
@@ -6122,7 +6122,7 @@
         placement: 'right',
         trigger: 'click',
         content: '',
-        template: '<div class="popover" role="tooltip">' + '<div class="arrow"></div>' + '<h3 class="popover-header"></h3>' + '<div class="popover-body"></div></div>'
+        template: '<div class="popover" role="tooltip">' + '<div class="arrow"></div>' + '<h3 class="popover-partials"></h3>' + '<div class="popover-body"></div></div>'
     });
 
     var DefaultType$5 = _objectSpread2(_objectSpread2({}, Tooltip.DefaultType), {}, {
@@ -6131,7 +6131,7 @@
 
     var CLASS_NAME_FADE$3 = 'fade';
     var CLASS_NAME_SHOW$5 = 'show';
-    var SELECTOR_TITLE = '.popover-header';
+    var SELECTOR_TITLE = '.popover-partials';
     var SELECTOR_CONTENT = '.popover-body';
     var Event$1 = {
         HIDE: "hide" + EVENT_KEY$7,
