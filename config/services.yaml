@@ -7,6 +7,7 @@ parameters:
     annonce_coverImage: /uploads/images/annonces/coverImage
     app.path.annonces: /uploads/images/annonces
     app.path.utilisateurs: /uploads/images/utilisateurs
+    locale: fr
 
 services:
     # default configuration for services in *this* file
